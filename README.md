@@ -1,5 +1,6 @@
 # Code Refactor Starter Code
 
+<<<<<<< HEAD
 ## Description
 
 This project tested the skills to refactor code from an existing starter code.  By cleaning and consolidating the html and css code it allowed me as a student to improve my understanding of html semantics.  When changing the html elements, it broke the corresponding css elements.  I then had to analyze the css file to troubleshoot why it was not working as it had before.  I appreciated the real-world feel that this practice provided. :tada:     
@@ -19,3 +20,6 @@ https://magmesser.github.io/mmesser-challenge1/
 The following images are screenshots of the web application's appearance:
 ![Screenshot 1 of the Header section](/mmesser-challenge1/assets/images/Screen%20Shot%201.png)
 ![Screenshot 2 of the Contents and Benefits sections](/mmesser-challenge1/assets/images/Screen%20Shot%202.png)
+=======
+https://magmesser.github.io/mmesser-challenge1/ 
+>>>>>>> fef372d4581d98fd9f6e07ab932875fe8aad7da6
