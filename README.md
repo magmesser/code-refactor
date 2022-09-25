@@ -18,12 +18,7 @@ https://magmesser.github.io/mmesser-challenge1/
 ## Screenshot
 
 The following images are screenshots of the web application's appearance:
-<<<<<<< HEAD
 
 ![Screenshot 1 of the Header section](/assets/images/Screenshot1.png)
 ![Screenshot 2 of the Contents and Benefits sections](/assets/images/Screenshot2.png)
-=======
-![Screenshot 1 of the Header section](/mmesser-challenge1/assets/images/Screen Shot1.png)
-![Screenshot 2 of the Contents and Benefits sections](/mmesser-challenge1/assets/images/Screen Shot2.png)
->>>>>>> 5ccb00e9f3c4ab3842e90678961706136c9e028a
 
